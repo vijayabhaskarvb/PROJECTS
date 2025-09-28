@@ -5,3 +5,4 @@ Data_Cleaning/** filter=lfs diff=lfs merge=lfs -text
 Deep_Learning filter=lfs diff=lfs merge=lfs -text
 Deep_Learning/** filter=lfs diff=lfs merge=lfs -text
 Deep_learning/** filter=lfs diff=lfs merge=lfs -text
+Machine_Learning/** filter=lfs diff=lfs merge=lfs -text
